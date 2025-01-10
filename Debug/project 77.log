@@ -1,0 +1,5 @@
+﻿  project 77.cpp
+  temp.cpp
+C:\Users\Mansour Alameri\source\repos\Small Project\project 77\temp.cpp(41,13): warning C4129: 'p': unrecognized character escape sequence
+  Generating Code...
+  project 77.vcxproj -> C:\Users\Mansour Alameri\source\repos\Small Project\Debug\project 77.exe
